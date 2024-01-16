@@ -1,1 +1,1 @@
-my_phonebook creates a database called phonebook.db. The database has an Entries table with columns for the person's name and phone number. crud.py allows the user to add rows to the Entries table, look up a person's phone number, change their phone number, and delete given rows.
+Телефонная база данных. Программа создает базу данных. Приложение CRUD позволяет пользователю добавлять номер, отыскивать номер телефона, изменять или удалять номер телефона.
